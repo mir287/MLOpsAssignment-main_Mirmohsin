@@ -36,7 +36,7 @@ Project background - CodePro is an EdTech startup that had a phenomenal seed A f
 This is a MLOps assignment for Customer Lead identification, done by Adway Kirwe.
 
 ## Contact
-Created by [@samrich76] (mail - samrich76@hotmail.com) 
+Created by mirmohsin] (mail - mdmirmohsin@gmail.com) 
 
 
 <!-- Optional -->
